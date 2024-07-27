@@ -105,4 +105,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+* I have gone through it and was able to learnt alot about GitHub.
+* i was able to create my own profile README that explained more about me, A space to showcase my contributions and interests.
 * 
